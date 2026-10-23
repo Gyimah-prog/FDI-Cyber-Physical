@@ -1,0 +1,16 @@
+# Data and model files
+*.csv
+*.xlsx
+*.pkl
+*.keras
+*.h5
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Local assistant files
+AGENTS.md
+CLAUDE.md
+.claude/
